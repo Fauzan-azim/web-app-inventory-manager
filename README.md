@@ -1,12 +1,13 @@
 # web-app-inventory-manager
 Web Application to manage new item and outgoing item 
 
-Designend for user and admin with security access 
+Designed with two views user and admin and security access
 
 ## Info
 - using [Bootstrap 4.5](https://getbootstrap.com/)
 - MySQL Database
 - PHP v7.3
+  > Procedural Paradigm and Native PHP
 
 ## Set Up
 DATABASE name : invmanager
